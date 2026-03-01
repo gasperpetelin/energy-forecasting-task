@@ -1,6 +1,6 @@
-# GEN-I Recruitment Tasks
+# Energy Forecasting & Trading Analysis
 
-This repository contains solutions to three tasks covering hydro production forecasting, electricity price analysis, and price scenario modelling. Data manipulation is done with [Polars](https://pola.rs), classical ML models are built with [scikit-learn](https://scikit-learn.org), and automated model selection with [AutoGluon](https://auto.gluon.ai).
+This repository contains three tasks covering hydro production forecasting, electricity price analysis, and price scenario modelling. Data manipulation is done with [Polars](https://pola.rs), classical ML models are built with [scikit-learn](https://scikit-learn.org), and automated model selection with [AutoGluon](https://auto.gluon.ai).
 
 ---
 
