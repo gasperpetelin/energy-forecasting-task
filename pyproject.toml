@@ -1,0 +1,22 @@
+[project]
+name = "gen-i-task"
+version = "0.1.0"
+description = "Linear regression model for hydro power production from river inflow"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "scipy",
+    "click",
+    "polars",
+    "fastexcel",
+    "scikit-learn",
+    "matplotlib",
+    "ipykernel",
+    "autogluon",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+]
